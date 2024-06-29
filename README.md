@@ -1,1 +1,2 @@
-# 14_post-jobs_for-php
+# Linkedin-Clone
+This project aims to develop a dynamic job posting web application using PHP
